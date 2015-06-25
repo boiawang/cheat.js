@@ -1,0 +1,5 @@
+object = {
+
+}
+
+module.exports = object

@@ -1,0 +1,33 @@
+{
+  "name": "cheat.js",
+  "version": "0.0.1",
+  "description": "data mock to front-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test",
+    "test-cov": "make test-cov",
+    "test-watch": "make test-watch"
+  },
+  "keywords": [
+    "mock",
+    "data",
+    "random"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boiawang/cheat.js.git"
+  }
+  "author": "boia <zhengwang2314@gmail.com> (http://www.boiajs.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "1.9.3",
+    "commander": "2.8.1"
+  },
+  "devDependencies": {
+    "browserify": "10.2.4",
+    "ibrik": "2.0.0",
+    "istanbul": "^0.3.15",
+    "lodash": "3.9.3",
+    "mocha": "2.1.0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cheat.js",
+  "main": "index.js",
+  "version": "0.0.1",
+  "authors": [
+    "boiawang <zhengwang2314@gmail.com>"
+  ],
+  "description": "cheat data in Node.js or browser",
+  "keywords": [
+    "cheat",
+    "data",
+    "fetch"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
